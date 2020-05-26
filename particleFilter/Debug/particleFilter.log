@@ -1,0 +1,4 @@
+﻿  particleFilter.cpp
+C:\Users\ahmad\source\repos\particleFilter\particleFilter\particleFilter.cpp(121,27): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahmad\source\repos\particleFilter\particleFilter\particleFilter.cpp(174,12): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  particleFilter.vcxproj -> C:\Users\ahmad\source\repos\particleFilter\Debug\particleFilter.exe
